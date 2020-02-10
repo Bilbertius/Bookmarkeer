@@ -28,7 +28,7 @@ body {
   -moz-border-radius: 80px;
   -ms-border-radius: 80px;
   -o-border-radius: 80px;
-  box-shadow: 0px 20px 80px hsla(157, 98%, 51%, 0.637),
+  box-shadow: 0px 20px 60px hsla(157, 98%, 51%, 0.637),
     0px 20px 60px hsl(298, 100%, 56%), 0px 20px 150px hsl(189, 100%, 62%);
 }
 header {
@@ -99,7 +99,7 @@ label {
   display: inline-block;
   background-color: hsl(120, 51%, 52%);
   border-radius: 15px;
-  box-shadow: -3px 8px 10px hsl(202, 62%, 67%);
+  box-shadow: -3px 8px 8px hsl(202, 62%, 67%);
   border: none;
   color: white;
   padding: 10px;
@@ -301,7 +301,7 @@ p.description {
   margin-top: 10px;
   border-radius: 25px;
   background: hsla(202, 94%, 34%, 0.513);
-  box-shadow: 0px 2px 40px hsl(184, 67%, 60%);
+  box-shadow: -6px 8px 25px hsl(184, 67%, 60%);
 }
 
 h2 {
